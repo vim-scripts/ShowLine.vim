@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=381
+
+Display a line or lines in the command area, like the builtin echo, but using the original lines' syntax highlighting.
+
+Useful to other scripts for displaying lines of text, highlighted as they appear in the editor window (e.g., see ShowBlockName.vim -- vimscript #382)
